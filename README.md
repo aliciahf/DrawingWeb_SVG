@@ -8,7 +8,6 @@ Spring 2016
 Raw code for SVG project featuring a floating illustration and a few interactive shapes.
 
 LINKTO: 
-- [Drawing on the Web](http://i6.cims.nyu.edu/~ahf254/380/index.html)
 - [Live Page](http://i6.cims.nyu.edu/~ahf254/380/01/svg.html)
 
 ----------
