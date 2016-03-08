@@ -1,5 +1,15 @@
 # DRAWING ON THE WEB: SVG PROJECT
-Spring 2016 (Version Control Assignment)
+Spring 2016 
+(Version Control Assignment)
+
+----------
+
+## SVG PROJECT
+Raw code for SVG project featuring a floating illustration and a few interactive shapes.
+
+LINKTO: 
+- [Drawing on the Web](http://i6.cims.nyu.edu/~ahf254/380/index.html)
+- [Live Page](http://i6.cims.nyu.edu/~ahf254/380/01/svg.html)
 
 ----------
 
